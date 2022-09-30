@@ -1,7 +1,0 @@
-echo "# My_ideal_frontpage" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/thelazysupper/My_ideal_frontpage.git
-git push -u origin main
