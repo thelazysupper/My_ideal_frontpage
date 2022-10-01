@@ -7,9 +7,18 @@ header {
 }
 
 p {
-    background-color: beige;
+    background-color: rgb(255, 255, 255);
 }
 
-
 .first-paragraph {
-background-color: yellowgreen;
+    background-color: rgb(229, 131, 131);
+}
+
+.second-paragraph {
+    background-color: blanchedalmond;
+    color: black;
+    width: 200px;
+    height: 400px;
+    padding: 30px 20px 30px 30px;
+    margin: auto;
+}
