@@ -2,11 +2,14 @@ body {
     background-color: rgb(255, 255, 255);
 }
 
-article {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    font-size: small;
-}
-
 header {
     background-color: rgb(255, 255, 255);
 }
+
+p {
+    background-color: beige;
+}
+
+
+.first-paragraph {
+background-color: yellowgreen;
